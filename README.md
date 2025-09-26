@@ -1,6 +1,5 @@
 Quantum and related topics annotations.
-
-Classes references:</br>
+References:</br>
 https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO</br>
 https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR</br>
 https://www.youtube.com/watch?v=0niiGVFWoUw<br>
